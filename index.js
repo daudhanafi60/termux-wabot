@@ -1,7 +1,7 @@
 
 const XBOT = '『AMPIBI bot』'; 
 const instagram = 'https://bit.ly/2I4St2Y'; 
-const nomer = 'Wa.me/+6282334297175'; 
+const nomer = 'http://wa.me/6281216795577'; 
 const aktif = 'Tergantung kuota'; 
 const groupwhatsapp = 'https://bit.ly/2VJLtfn'; 
 const youtube = 'https://bit.ly/36Bp6ie'; 
@@ -140,7 +140,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner AFFIS JUNIANTO Wa.me/+6282334297175* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner Daud Hanafi Wa.me/+6281216795577* ' ,MessageType.text);
 }
 else if (text == '#creator'){
 conn.sendMessage(id, ' *Creator AFFIS JUNIANTO Wa.me/+6282334297175* ' ,MessageType.text);
