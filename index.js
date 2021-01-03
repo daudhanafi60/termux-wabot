@@ -1,5 +1,5 @@
 
-const XBOT = '『AMPIBI bot』'; 
+const XBOT = '『Mr.Screat Bot』'; 
 const instagram = 'https://bit.ly/2I4St2Y'; 
 const nomer = 'http://wa.me/6281216795577'; 
 const aktif = 'Tergantung kuota'; 
