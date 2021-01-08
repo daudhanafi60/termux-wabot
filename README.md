@@ -19,13 +19,17 @@ Script ini di modifikasi sama saya sendiri Daud Hanafi.
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > pkg install git
-
-
 > git clone https://github.com/daudhanafi60/termux-wabot
 > cd termux-wabot
-> 
-> Tinggal scan kode qr yeee...done
-```
+>bash install.sh
+
+
+
+
+
+
+
+
 
 ## Features
 
